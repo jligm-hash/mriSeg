@@ -4,7 +4,7 @@ This is the collection of the brain tumor segmentation based on MR images.
 
 # Dataset
 
-[https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=37224922](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=37224922)
+[Multimodal Brain Tumor Segmentation Challenge 2018 (BraTS)](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=37224922)
 
 [Segmentation Labels and Radiomic Features for the Pre-operative Scans of the TCGA-GBM collection (BraTS-TCGA-GBM)](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=24282666)
 
